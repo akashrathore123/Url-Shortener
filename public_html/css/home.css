@@ -1,0 +1,42 @@
+#error {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    width: 40%;
+}
+#innerText{
+    position:relative;
+    left:30%;
+}
+#short{
+    position:relative;
+    left:50%;
+   
+    width:350px;
+   
+}
+#mess{
+    background-color: rgb(231,231,231);
+    position: relative;
+    font-style: normal;
+     top:-120px;
+}
+#details{
+    position:relative;
+    
+    top:-120px;
+}
+#detailPosition{
+    position:relative;
+    left:20%;
+}
+#result{
+    position:relative;
+    left:23%;
+    color: rgb(38,135,255);
+}
+#homeImage{
+    position:fixed;
+    left:13%;
+    top:260px;
+}
